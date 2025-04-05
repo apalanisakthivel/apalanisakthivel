@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apalanisakthivel
 - 👀 I’m interested in learning and teaching.!
-- 🌱 I’m currently learning spring boot.!
+- 🌱 I’m currently practicing automation testing.!
 - 💞️ I’m looking to collaborate on training aspects.!
 - 📫 Reach me by apalanisakthivel@gmail.com
 - 😄 Pronouns: sakthi, master
